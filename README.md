@@ -1,5 +1,5 @@
 
-#incude <iostream>
+#include <iostream>
 using namespace std;
 
 init main()
